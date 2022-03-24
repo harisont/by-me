@@ -1,13 +1,9 @@
 # by me
 stuff i made
 
-## github
+## @ [github.com](https://github.com/kappanneo?tab=repositories)
 - [pronomee](https://kappanneo.github.io/pronomee)
 - [tag](https://tag-lang.org) (wip,external website)
 
-more @ [github.com](https://github.com/kappanneo?tab=repositories)
-
-## observablehq
+## @ [observablehq.com](https://observablehq.com/collection/@kappanneo/kappanneo)
 - [som](https://observablehq.com/@kappanneo/som-layout?collection=@kappanneo/som)
-
-more @ [observablehq.com](https://observablehq.com/collection/@kappanneo/kappanneo)
