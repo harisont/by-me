@@ -2,8 +2,13 @@
 stuff i made
 
 ## @ [github.com](https://github.com/kappanneo?tab=repositories)
-- [pronomee](https://kappanneo.github.io/pronomee)
-- [tag](https://tag-lang.org) (wip, external website)
+
+### @ [even-is-odd](https://github.com/
+
+### @ [tag-lang](https://github.com/tag-lang)
+- [tag](https://github.com/tag-lang/tag)
+#### @ [tag-lang.org](https://tag-lang.org)
+- [tag](https://tag-lang.org/tag)
 
 ## @ [observablehq.com](https://observablehq.com/collection/@kappanneo/kappanneo)
 - [som](https://observablehq.com/@kappanneo/som-layout?collection=@kappanneo/som)
