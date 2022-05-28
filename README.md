@@ -3,7 +3,8 @@ stuff i made
 
 ## @ [github.com](https://github.com/kappanneo?tab=repositories)
 
-### @ [even-is-odd](https://github.com/
+### @ [even-is-odd](https://github.com/even-is-odd)
+- [pronomey](https://github.com/even-is-odd/pronomey)
 
 ### @ [tag-lang](https://github.com/tag-lang)
 - [tag](https://github.com/tag-lang/tag)
