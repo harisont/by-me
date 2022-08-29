@@ -6,10 +6,9 @@ stuff i made
 ### @ [even-is-odd](https://github.com/even-is-odd)
 - [pronomey](https://github.com/even-is-odd/pronomey)
 
-### @ [tag-lang](https://github.com/tag-lang)
-- [tag](https://github.com/tag-lang/tag)
+### @ [tag-lang](https://github.com/tag-is-lang)
+- [tag](https://github.com/tag-is-lang/tag)
 #### @ [tag-lang.org](https://tag-lang.org)
-- [tag](https://tag-lang.org/tag)
 
 ## @ [observablehq.com](https://observablehq.com/collection/@kappanneo/kappanneo)
 - [som](https://observablehq.com/@kappanneo/som-layout?collection=@kappanneo/som)
